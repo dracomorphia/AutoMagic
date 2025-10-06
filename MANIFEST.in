@@ -1,0 +1,4 @@
+include inventory
+include test.txt
+recursive-include playbooks *.yml
+recursive-exclude .git *

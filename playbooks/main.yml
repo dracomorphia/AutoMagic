@@ -3,4 +3,4 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "It's AutoMagic!"
+        msg: "It's AutoMagic in prod!"
